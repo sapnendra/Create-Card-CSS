@@ -14,6 +14,6 @@ How are you?
 I hope you guys making S/W which is well use in real world.
 
 This is just a simple project
-In this project I have made mutiple car for more practice while learning HTML nad CSS.
+In this project I have made mutiple card for more practice while learning HTML nad CSS.
 
 Thank you ... !
